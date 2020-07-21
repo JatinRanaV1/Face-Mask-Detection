@@ -2,7 +2,8 @@
 This project is implemented in Python using Keras, Tensorflow and OpenCV.
 
 ## Pre-requisite
-The original dataset is prepared by Prajna Bhandary and available at Github. Download it before starting the project.
+1. The original dataset is prepared by Prajna Bhandary and available at Github. Download it before starting the project.
+2. haarcascade_frontalface_default
 
 ## Requirements
 1. Python 3.6.8
